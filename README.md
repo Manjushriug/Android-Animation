@@ -1,4 +1,4 @@
-# Animation
+# Android Animation Application
 
 This app creates an animation, using square, circles, triangles
 
